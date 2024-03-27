@@ -1,0 +1,10 @@
+10100 GoodMan
+1350 Man
+1050 Name
+1000 Lyndon
+950 Wangzh
+900 Sam
+850 WZH
+800 John
+700 Johnson
+600 Eil
